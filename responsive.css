@@ -1,0 +1,734 @@
+
+/*@media screen and (min-width:1200px) and (max-width:1399px){
+
+}*/
+@media screen and (min-width:992px) and (max-width:1199px){
+	.main-banner-content h1 {
+    	font-size: 45px;
+	}
+
+	.main-banner .container-fluid .row .col-lg-6 col-md-12 {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+
+	.main-banner-content {
+	    padding-top: 160px;
+	    padding-bottom: 160px;
+	}
+
+	.section-title h2 {
+	    font-size: 38px;
+	}
+
+	.section-title {
+	    margin-bottom: 60px;
+	}
+
+	.feature-box h3 {
+	    font-size: 23px;
+	}
+
+	.feature-box {
+	    padding: 50px 25px;
+	}
+
+	.icon-image {
+	    width: 80px;
+	    height: 80px;
+	}
+
+	.content {
+	    max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+	}
+
+	.about-content h2 {
+	    font-size: 37px;
+	}
+
+	.odometer {
+	    flex-wrap: nowrap;
+	}
+
+	.ododmeter-item span {
+	    font-size: 38px;
+	}
+
+	.ododmeter-item p {
+	    font-size: 18px;
+	    line-height: 1;
+	}
+
+	.ododmeter-item {
+	   margin-right: 15px;
+	}
+
+	.what-we-do-content h2 {
+	    font-size: 38px;
+	}
+
+	.text-wrapper p {
+	    margin-bottom: 0;
+	}
+
+	section.services-section {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+
+	.service-box h3 {
+	    font-size: 22px;
+	}
+
+	.service-box {
+	    padding: 42px 25px;
+	}
+
+	.learn-more-btn {
+	    width: 155px;
+	    padding: 5px 0 5px 45px;
+	}
+
+	.arrow-left {
+	    height: 35px;
+	}
+
+	.arrow-right {
+	    height: 35px;
+	}
+
+	.learn-more-btn:hover {
+	    padding-left: 20px;
+	}
+
+	.testimonials-content h2 {
+	    font-size: 38px;
+	}
+
+	.testimonials-content {
+	    max-width: 100%;
+	    padding-right: 15px;
+	    padding-left: 15px;
+	    margin: auto;
+	}
+}
+
+
+
+
+@media screen and (min-width:768px) and (max-width:991px){
+
+	.main-banner-content {
+    padding: 50px;
+    text-align: center;
+	}
+
+	span.sub-title {
+	    font-size: 14.5px;
+	}
+
+	.main-banner-content h1 {
+	    font-size: 40px;
+	    margin-bottom: 15px;
+	}
+
+	.banner-btn-box {
+	    justify-content: center;
+	}
+
+	.default-btn {
+	    font-size: 15px;
+	    padding: 9px 18px;
+	}
+
+	.video-btn {
+	    font-size: 15px;
+	}
+
+	.video-btn a {
+	    display: inline-block;
+	}
+
+	.banner-img-content {
+	    height: 700px;
+	    padding: 0;
+	}
+
+	.main-banner .container-fluid {
+	    padding-left: 30px;
+	    padding-right: 30px;
+	}
+
+	.section-title p {
+	    max-width: 550px;
+	}
+
+	section.features {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+
+	.feature-box {
+	    padding: 40px 25px;
+	}
+
+	.feature-box h3 {
+	    font-size: 22px;
+	}
+
+	.feature-box p {
+	    font-size: 15px;
+	}
+
+	.icon-image {
+	    width: 75px;
+	    height: 75px;
+	}
+
+	.learn-more-btn {
+	    width: 140px;
+	    font-size: 15px;
+	    padding: 7px 0 7px 40px;
+	}
+
+	.arrow-left {
+	    height: 30px;
+	    top: 4px;
+	}
+
+	.learn-more-btn:hover {
+	    padding-left: 23px;
+	}
+
+	.arrow-right {
+	    height: 30px;
+	    top: 3.5px;
+	    right: 5px;
+	}
+
+	.about-content h2 {
+	    font-size: 35px;
+	}
+
+	p {
+	    font-size: 15px;
+	}
+
+	.content {
+	    text-align: center;
+	    padding: 60px 15px;
+	    max-width: 100%;
+	}
+
+	.odometer {
+	    display: flex;
+	    justify-content: center;
+	}
+
+	.ododmeter-item span {
+	    font-size: 35px;
+	}
+
+	.ododmeter-item svg {
+	    width: 30px;
+	    height: 30px;
+	    vertical-align: sub;
+	}
+
+	.ododmeter-item p {
+	    font-size: 17px;
+	    padding-right: 0;
+	}
+
+	section.about-section {
+	    padding-bottom: 30px;
+	}
+
+	.ododmeter-item {
+	}
+
+	.what-we-do-content h2 {
+	    font-size: 35px;
+	}
+
+	.what-we-do-content {
+	    text-align: center;
+	}
+
+	.text-wrapper p {
+	    margin-bottom: 0px;
+	}
+
+	.what-we-do-accordion {
+	    padding: 0;
+	}
+
+	section.what-we-do {
+	    padding-bottom: 60px;
+	}
+
+	section.services-section {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+	.section-title h2 {
+	    font-size: 35px;
+	}
+
+	.section-title {
+	    margin-bottom: 45px;
+	}
+
+	.service-box h3 {
+	    font-size: 22px;
+	    margin-bottom: 10px;
+	}
+
+	.service-box {
+	    padding: 40px 30px;
+	    box-shadow: 0px 0px 5px 0px #00000030;
+	}
+
+	.testimonials-content h2 {
+	    font-size: 35px;
+	    margin-bottom: -5px;
+	}
+
+	.testimonials-content {
+	    padding-bottom: 60px;
+	    padding-left: 15px;
+	}
+
+	section.partners {
+	    padding: 60px 0;
+	}
+
+	section.team-section .col-lg-6 {
+	    order: 1;
+	}
+
+	.team-title h2 {
+	    font-size: 35px;
+	}
+
+	.team-title {
+	    text-align: center;
+	    padding-top: 60px;
+	    padding-bottom: 15px;
+	}
+
+	section.team-section {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+
+	section.pricing {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+
+	.pricing-title h2 {
+	    font-size: 35px;
+	}
+
+	.pricing-box {
+	    margin-bottom: 30px;
+	    padding-top: 30px;
+	}
+
+	.pricing-box-title h3 {
+	    font-size: 22px;
+	}
+
+	.pricing-features ul li {
+	    font-size: 15px;
+	}
+
+	.price h2 {
+	    font-size: 35px;
+	}
+
+	.pricing-features {
+	    padding-top: 20px;
+	}
+
+	section.subscribe {
+	    padding-top: 90px;
+	    padding-bottom: 60px;
+	}
+
+	.subscribe-content h2 {
+	    font-size: 35px;
+	}
+
+	footer.footer {
+	    padding-top: 80px;
+	}
+
+	.footer-bottom-area {
+	    margin-top: 60px;
+	}
+}
+
+@media only screen and (max-width:767px){
+	section.main-banner {
+    padding-top: 130px;
+ }
+
+	body {
+	    font-size: 14px;
+	}
+	p {
+	    font-size: 14px;
+	    margin-bottom: 15px;
+	}
+
+	header.header {
+	    position: relative;
+	    background: #faf8fb;
+	    box-shadow: 1px 1px 12px 0 #00000021;
+	}
+	.header-right {
+            padding: 0;
+        position: absolute;
+        width: 93%;
+        top: 102%;
+        background: #fff;
+        padding: 15px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        transition: 0.5s;
+        transform: rotateX(90deg);
+        transform-origin: top;
+	}
+	.header-right.active {
+	    transform: rotateX(0deg);
+	}
+	.logo {
+	    padding: 0;
+	    display: flex;
+	    justify-content: space-between;
+	    align-items: center;
+	    width: 100%;
+	}
+
+	ul.header-menu {
+	    flex-direction: column;
+	}
+
+	ul.header-menu .dropdown-1 {
+	    padding: 6px 0;
+	    border-bottom: 1px solid #0000002e;
+	}
+
+	.toggle-div {
+	    display: block;
+	}
+	
+	.dropdown-1-inner {
+	    opacity: 1;
+	    visibility: visible;
+	    transform: rotateX(90deg);
+	    transform-origin: top;
+	    transition: none;
+	}
+	.dropdown-1:hover .dropdown-1-inner {
+	    position: relative;
+	    transform: rotateX(0deg);
+	}
+
+	.main-banner-content {
+	    padding-top: 0;
+	    text-align: center;
+	    padding-bottom: 40px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+
+	.main-banner-content .sub-title {
+	    font-size: 14px;
+	}
+
+	.main-banner-content h1 {
+	    font-size: 30px;
+	}
+
+	
+	.banner-btn-box {
+	    gap: 10px;
+	    justify-content: center;
+	    align-items: center;
+	}
+
+	.default-btn {
+	    padding: 10px 20px;
+	}
+
+	.video-btn {
+	    font-size: 14px;
+	}
+
+	.video-btn svg {
+	    width: 35px;
+	    height: 35px;
+	}
+
+	.banner-img-content {
+	    height: 320px;
+	}
+
+	section.features {
+	    padding-top: 60px;
+	    padding-bottom: 30px;
+	}
+
+	.section-title h2 {
+	    font-size: 28px;
+	}
+
+	.section-title {
+	    margin-bottom: 30px;
+	}
+
+	.feature-box h3 {
+	    font-size: 19px;
+	}
+
+	.feature-box {
+	    padding: 25px 20px;
+	}
+
+	.icon-image {
+	    width: 70px;
+	    height: 70px;
+	}
+
+	.icon-image svg {
+	    width: 30px;
+	}
+
+	.learn-more-btn {
+	    font-size: 15px;
+	    padding: 7px 0px 7px 33px;
+	    width: 120px;
+	}
+	.learn-more-btn:hover {
+	    padding-left: 13px;
+	}
+
+	.learn-more-btn img {
+	    width: 26px;
+	    height: 26px;
+	}
+
+	.arrow-left {
+		top: 6px;
+	}
+
+	.arrow-right {
+	    top: 5px;
+	}
+
+	.about-content {
+	    text-align: center;
+	}
+
+	.content {
+	    padding: 30px 15px;
+	}
+
+	.about-content h2 {
+	    font-size: 28px;
+	}
+
+	.odometer {
+		justify-content: center;
+	}
+
+	.ododmeter-item {
+	    margin: 0;
+	    width: 50%;
+	}
+
+	.ododmeter-item span {
+	    font-size: 30px;
+	    line-height: 1;
+	}
+
+	.ododmeter-item svg {
+	    width: 30px;
+	    vertical-align: bottom;
+	}
+
+	.ododmeter-item p {
+	    font-size: 14px;
+	}
+
+	.about-content .content a.default-btn {
+		margin-top: 10px;
+		display: inline-block;
+	}
+
+	section.about-section {
+	    padding-bottom: 60px;
+	}
+
+	section.what-we-do {
+	    text-align: center;
+	}
+
+	.what-we-do-content h2 {
+	    font-size: 28px;
+	}
+
+	.what-we-do-accordion {
+	    padding: 0 0;
+	}
+
+	.what-we-do-accordion .accordion-button::after {
+	    height: 30px;
+	    width: 30px;
+	}
+
+	.what-we-do-accordion .accordion-button {
+	    font-size: 15px;
+	}
+
+	.text-wrapper h6 {
+	    font-size: 14.5px;
+	}
+
+	.text-wrapper p {
+	    font-size: 15px;
+	    margin: 0;
+	}
+
+	.text-wrapper {
+	    align-items: baseline;
+	}
+	.accordion-body p {
+	    text-align: left;
+	}
+
+	section.services-section {
+	    padding-top: 60px;
+	    padding-bottom: 30px;
+	}
+
+	.service-box h3 {
+	    font-size: 20px;
+	    margin-bottom: 12px;
+	}
+
+	.service-box {
+	    padding: 25px 20px;
+	}
+	.accordion-body p {
+	    text-align: left;
+	}
+
+	section.services-section {
+	    padding-top: 60px;
+	    padding-bottom: 30px;
+	}
+
+	.service-box h3 {
+	    font-size: 20px;
+	    margin-bottom: 12px;
+	}
+
+	.service-box {
+	    padding: 25px 20px;
+	}
+
+	.testimonials-content {
+	    padding-top: 60px;
+	    text-align: center;
+	    padding-bottom: 30px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+
+	.testimonials-content h2 {
+	    font-size: 28px;
+	    padding: 0;
+	}
+	.partners-image {
+	    margin-bottom: 20px;
+	}
+	section.team-section .row>* {
+	    padding-right: calc(var(--bs-gutter-x)* .5);
+	    padding-left: calc(var(--bs-gutter-x)* .5);
+	}
+	section.team-section .col-lg-6 {
+    	order: 1;
+	}
+
+	.team-title {
+		padding: 0;
+		text-align: center;
+		margin-top: 35px;
+	}
+
+	.team-title h2 {
+	    font-size: 28px;
+	}
+
+	section.team-section {
+	    padding-top: 60px;
+	    padding-bottom: 60px;
+	}
+	section.pricing {
+	    padding-top: 60px;
+	    padding-bottom: 30px;
+	}
+
+	.pricing-title h2 {
+	    font-size: 28px;
+	}
+
+	.pricing-box-title h3 {
+	    font-size: 20px;
+	}
+
+	.price h2 {
+	    font-size: 28px;
+	}
+
+	.pricing-box {
+	    margin-bottom: 30px;
+	}
+	section.subscribe {
+	    padding-top: 60px;
+	    padding-bottom: 30px;
+	}
+
+	.subscribe-content h2 {
+	    font-size: 28px;
+	}
+
+	.subscribe-content p {
+	    font-size: 14px;
+	}
+
+	button.default-btn {
+		position: relative;
+		width: 100%;
+		height: 47px;
+		margin-top: 15px;
+	}
+	footer.footer {
+    	padding-top: 60px;
+	}
+
+	.footer-bottom-area {
+	    margin-top: 30px;
+	}
+
+	ul.footer-bottom-right {
+		justify-content: center;
+	}
+}
